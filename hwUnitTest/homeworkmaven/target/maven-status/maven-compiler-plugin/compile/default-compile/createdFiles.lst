@@ -1,0 +1,17 @@
+com\vaer\body\BodyType.class
+com\vaer\body\PlasticBody.class
+com\vaer\robot\RobotGuard.class
+com\vaer\main\Fabric.class
+com\vaer\robot\RobotEngineer.class
+com\vaer\head\Head.class
+com\vaer\main\Main.class
+com\vaer\body\Body.class
+com\vaer\body\CarboneBody.class
+com\vaer\head\SmallHead.class
+com\vaer\head\LargeHead.class
+com\vaer\robot\RobotCleaner.class
+com\vaer\robot\RobotType.class
+com\vaer\body\IronBody.class
+com\vaer\head\MiddleHead.class
+com\vaer\robot\Robot.class
+com\vaer\head\HeadType.class

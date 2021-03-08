@@ -1,0 +1,9 @@
+com\vaer\bodytest\PlasticBodyTest.class
+com\vaer\bodytest\CarboneBodyTest.class
+com\vaer\bodytest\IronBodyTest.class
+com\vaer\robottest\RobotEngineerTest.class
+com\vaer\headtest\LargeHeadTest.class
+com\vaer\headtest\MiddleHeadTest.class
+com\vaer\headtest\SmallHeadTest.class
+com\vaer\robottest\RobotCleanerTest.class
+com\vaer\robottest\RobotGuardTest.class
