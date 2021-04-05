@@ -1,0 +1,8 @@
+ id=1/name=Oranges/dateOfManufacture=2021-04-04
+ id=2/name=Kiwi/dateOfManufacture=2021-03-25
+ id=3/name=Apples/dateOfManufacture=2021-03-18
+ id=4/name=Bananas/dateOfManufacture=2021-02-26
+ id=5/name=Grapes/dateOfManufacture=2021-04-01
+ id=6/name=Tengerene/dateOfManufacture=2021-03-30
+ id=7/name=Tengerene/dateOfManufacture=2021-03-29
+ id=13/name=Tengerene3/dateOfManufacture=2021-03-28
